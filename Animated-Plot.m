@@ -1,4 +1,4 @@
-# declaring x and y values
+# Declaring x and y values
 format long
 y=@(t,x) exp(-t).*sin(2*x);
 t=0:0.1:10;
